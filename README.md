@@ -1,5 +1,5 @@
 # E-tours-travels 
-Frontend :- React  Backend :- Java SpringBoot
+Frontend :- React      Backend :- Java SpringBoot
 
 E-Tour is a web-based application for online booking of various tours. The main objective of the project is to create a fast, effective &
  reliable online working platform to develop a communication system between customers & the agency. We have implemented
